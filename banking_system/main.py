@@ -1,5 +1,5 @@
-from python_projects.banking_system.accounts import SavingsAccount, CurrentAccount
-from python_projects.banking_system.exceptions import InvalidChoiceError
+from accounts import SavingsAccount, CurrentAccount
+from exceptions import InvalidChoiceError
 
 def fetch_transactions():
     try:

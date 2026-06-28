@@ -1,5 +1,5 @@
 from datetime import datetime
-from python_projects.banking_system.exceptions import FileOperationError
+from exceptions import FileOperationError
 
 def transaction_logger(func):
     """Decorator to log successful transactions into transaction_history.txt."""
