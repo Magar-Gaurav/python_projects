@@ -1,0 +1,9 @@
+Account Holder: Gaurav
+Transaction: Deposit Rs.2000
+Balance: Rs.12000
+----------------------------------------
+Date: 28-06-2026 08:35:25
+Account Holder: Gaurav
+Transaction: Withdraw Rs.12000
+Balance: Rs.0
+----------------------------------------
